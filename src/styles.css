@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.vasu {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.a {
+  margin: 10px;
+  padding: 10px;
+  background: lightgreen;
+  font-weight: bold;
+}
+
+.b {
+  margin: 10px;
+  padding: 10px;
+  background: lightcoral;
+  text-decoration: line-through;
+}
